@@ -6479,3 +6479,4 @@ __libc_start_main 7 C Y
 _ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc 3 C N
 _ZNSolsEPFRSoS_E 2 C N
 _ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_ 2 C N
+__isoc99_fscanf 16 C N
